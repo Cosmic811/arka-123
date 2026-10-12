@@ -1,0 +1,428 @@
+[
+  {
+    "caption": {
+      "bottom": 741,
+      "height": 158.28125,
+      "left": 802.453125,
+      "right": 1302.453125,
+      "top": 582.71875,
+      "width": 500,
+      "x": 802.453125,
+      "y": 582.71875
+    },
+    "clientWidth": 1425,
+    "depth": "depth",
+    "height": 1000,
+    "heroLoaded": true,
+    "hostHeight": 700,
+    "hostPosition": "sticky",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fhero-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fhost%2Fhost-cutout.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-city-view.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-detail.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      }
+    ],
+    "person": {
+      "bottom": 805,
+      "height": 540.78125,
+      "left": 83.21875,
+      "right": 515.84375,
+      "top": 264.21875,
+      "width": 432.625,
+      "x": 83.21875,
+      "y": 264.21875
+    },
+    "personOpacity": "1",
+    "scrollWidth": 1425,
+    "textOpacity": "1",
+    "viewport": 1440,
+    "visiblePlaceholders": 0
+  },
+  {
+    "caption": {
+      "bottom": 678.5823974609375,
+      "height": 148.65625,
+      "left": 656.21875,
+      "right": 1156.21875,
+      "top": 529.9261474609375,
+      "width": 500,
+      "x": 656.21875,
+      "y": 529.9261474609375
+    },
+    "clientWidth": 1265,
+    "depth": "depth",
+    "height": 900,
+    "heroLoaded": true,
+    "hostHeight": 630,
+    "hostPosition": "sticky",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fhero-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fhost%2Fhost-cutout.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-city-view.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-detail.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      }
+    ],
+    "person": {
+      "bottom": 735,
+      "height": 480.046875,
+      "left": 73.859375,
+      "right": 457.90625,
+      "top": 254.953125,
+      "width": 384.046875,
+      "x": 73.859375,
+      "y": 254.953125
+    },
+    "personOpacity": "1",
+    "scrollWidth": 1265,
+    "textOpacity": "0.873",
+    "viewport": 1280,
+    "visiblePlaceholders": 0
+  },
+  {
+    "caption": {
+      "bottom": 678.3662109375,
+      "height": 133.28125,
+      "left": 513.796875,
+      "right": 922.234375,
+      "top": 545.0849609375,
+      "width": 408.4375,
+      "x": 513.796875,
+      "y": 545.0849609375
+    },
+    "clientWidth": 1009,
+    "depth": "depth",
+    "height": 900,
+    "heroLoaded": true,
+    "hostHeight": 630,
+    "hostPosition": "sticky",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fhero-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fhost%2Fhost-cutout.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-city-view.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-detail.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      }
+    ],
+    "person": {
+      "bottom": 735,
+      "height": 382.90625,
+      "left": 58.921875,
+      "right": 365.25,
+      "top": 352.09375,
+      "width": 306.328125,
+      "x": 58.921875,
+      "y": 352.09375
+    },
+    "personOpacity": "1",
+    "scrollWidth": 1009,
+    "textOpacity": "0.8946",
+    "viewport": 1024,
+    "visiblePlaceholders": 0
+  },
+  {
+    "caption": {
+      "bottom": 628.921875,
+      "height": 141.578125,
+      "left": 383.4375,
+      "right": 702.109375,
+      "top": 487.34375,
+      "width": 318.671875,
+      "x": 383.4375,
+      "y": 487.34375
+    },
+    "clientWidth": 753,
+    "depth": "depth",
+    "height": 1024,
+    "heroLoaded": true,
+    "hostHeight": 680,
+    "hostPosition": "relative",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fhero-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fhost%2Fhost-cutout.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-city-view.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-detail.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      }
+    ],
+    "person": {
+      "bottom": 663.921875,
+      "height": 450.28125,
+      "left": 9.328125,
+      "right": 369.5625,
+      "top": 213.640625,
+      "width": 360.234375,
+      "x": 9.328125,
+      "y": 213.640625
+    },
+    "personOpacity": "1",
+    "scrollWidth": 753,
+    "textOpacity": "1",
+    "viewport": 768,
+    "visiblePlaceholders": 0
+  },
+  {
+    "caption": {
+      "bottom": 565.453125,
+      "height": 189.515625,
+      "left": 190.796875,
+      "right": 341.203125,
+      "top": 375.9375,
+      "width": 150.40625,
+      "x": 190.796875,
+      "y": 375.9375
+    },
+    "clientWidth": 375,
+    "depth": "static",
+    "height": 844,
+    "heroLoaded": true,
+    "hostHeight": 543.75,
+    "hostPosition": "relative",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fhero-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fhost%2Fhost-cutout.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-city-view.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-detail.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      }
+    ],
+    "person": {
+      "bottom": 593.640625,
+      "height": 212.53125,
+      "left": 14.203125,
+      "right": 184.234375,
+      "top": 381.109375,
+      "width": 170.03125,
+      "x": 14.203125,
+      "y": 381.109375
+    },
+    "personOpacity": "1",
+    "scrollWidth": 375,
+    "textOpacity": "1",
+    "viewport": 390,
+    "visiblePlaceholders": 0
+  },
+  {
+    "caption": {
+      "bottom": 543.34375,
+      "height": 215.90625,
+      "left": 175.484375,
+      "right": 312.09375,
+      "top": 327.4375,
+      "width": 136.609375,
+      "x": 175.484375,
+      "y": 327.4375
+    },
+    "clientWidth": 345,
+    "depth": "static",
+    "height": 800,
+    "heroLoaded": true,
+    "hostHeight": 500.25,
+    "hostPosition": "relative",
+    "images": [
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fhero-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Froom-wide.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fhost%2Fhost-cutout.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-room.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-city-view.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-detail.webp&w=3840&q=75"
+      },
+      {
+        "loaded": true,
+        "src": "/_next/image?url=%2Fimages%2Fspace%2Fgallery-window.webp&w=3840&q=75"
+      }
+    ],
+    "person": {
+      "bottom": 569.34375,
+      "height": 193.046875,
+      "left": 15.09375,
+      "right": 169.53125,
+      "top": 376.296875,
+      "width": 154.4375,
+      "x": 15.09375,
+      "y": 376.296875
+    },
+    "personOpacity": "1",
+    "scrollWidth": 345,
+    "textOpacity": "1",
+    "viewport": 360,
+    "visiblePlaceholders": 0
+  }
+]

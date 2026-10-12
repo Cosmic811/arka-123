@@ -1,0 +1,140 @@
+[
+  {
+    "aboutColumns": [
+      297,
+      297
+    ],
+    "accentCount": 1,
+    "bodyWidth": 345,
+    "clientWidth": 345,
+    "headingOverflow": [],
+    "heroFont": "48px",
+    "heroPhoto": {
+      "height": 371,
+      "width": 297
+    },
+    "reviews": false,
+    "scrollWidth": 345,
+    "sectionFont": "34px",
+    "spaceMedia": {
+      "height": 186,
+      "width": 297
+    },
+    "viewport": 360
+  },
+  {
+    "aboutColumns": [
+      327,
+      327
+    ],
+    "accentCount": 1,
+    "bodyWidth": 375,
+    "clientWidth": 375,
+    "headingOverflow": [],
+    "heroFont": "48px",
+    "heroPhoto": {
+      "height": 409,
+      "width": 327
+    },
+    "reviews": false,
+    "scrollWidth": 375,
+    "sectionFont": "34px",
+    "spaceMedia": {
+      "height": 204,
+      "width": 327
+    },
+    "viewport": 390
+  },
+  {
+    "aboutColumns": [
+      382,
+      266
+    ],
+    "accentCount": 1,
+    "bodyWidth": 753,
+    "clientWidth": 753,
+    "headingOverflow": [],
+    "heroFont": "48px",
+    "heroPhoto": {
+      "height": 401,
+      "width": 321
+    },
+    "reviews": false,
+    "scrollWidth": 753,
+    "sectionFont": "41.9545px",
+    "spaceMedia": {
+      "height": 433,
+      "width": 693
+    },
+    "viewport": 768
+  },
+  {
+    "aboutColumns": [
+      521,
+      362
+    ],
+    "accentCount": 1,
+    "bodyWidth": 1009,
+    "clientWidth": 1009,
+    "headingOverflow": [],
+    "heroFont": "62.558px",
+    "heroPhoto": {
+      "height": 545,
+      "width": 436
+    },
+    "reviews": false,
+    "scrollWidth": 1009,
+    "sectionFont": "48.7385px",
+    "spaceMedia": {
+      "height": 580,
+      "width": 928
+    },
+    "viewport": 1024
+  },
+  {
+    "aboutColumns": [
+      634,
+      410
+    ],
+    "accentCount": 1,
+    "bodyWidth": 1265,
+    "clientWidth": 1265,
+    "headingOverflow": [],
+    "heroFont": "78.43px",
+    "heroPhoto": {
+      "height": 674,
+      "width": 539
+    },
+    "reviews": false,
+    "scrollWidth": 1265,
+    "sectionFont": "55.5225px",
+    "spaceMedia": {
+      "height": 727,
+      "width": 1164
+    },
+    "viewport": 1280
+  },
+  {
+    "aboutColumns": [
+      700,
+      410
+    ],
+    "accentCount": 1,
+    "bodyWidth": 1425,
+    "clientWidth": 1425,
+    "headingOverflow": [],
+    "heroFont": "88.35px",
+    "heroPhoto": {
+      "height": 759,
+      "width": 608
+    },
+    "reviews": false,
+    "scrollWidth": 1425,
+    "sectionFont": "59.7625px",
+    "spaceMedia": {
+      "height": 819,
+      "width": 1311
+    },
+    "viewport": 1440
+  }
+]

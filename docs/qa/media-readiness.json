@@ -1,0 +1,670 @@
+{
+  "viewports": [
+    {
+      "client": 345,
+      "headingOverflow": [],
+      "hostVideoCount": 0,
+      "overflow": false,
+      "placeholders": [
+        {
+          "file": "hero-room.webp",
+          "height": 371.25,
+          "ratio": "4 / 5",
+          "width": 297
+        },
+        {
+          "file": "room-wide.webp",
+          "height": 185.625,
+          "ratio": "2000 / 1250",
+          "width": 297
+        },
+        {
+          "file": "host-main.webp",
+          "height": 222.75,
+          "ratio": "4 / 3",
+          "width": 297
+        },
+        {
+          "file": "gallery-room.webp",
+          "height": 222.75,
+          "ratio": "1600 / 1200",
+          "width": 297
+        },
+        {
+          "file": "gallery-window.webp",
+          "height": 222.75,
+          "ratio": "4 / 3",
+          "width": 297
+        },
+        {
+          "file": "gallery-library-view.webp",
+          "height": 222.75,
+          "ratio": "1600 / 1200",
+          "width": 297
+        },
+        {
+          "file": "gallery-detail.webp",
+          "height": 222.75,
+          "ratio": "4 / 3",
+          "width": 297
+        }
+      ],
+      "scroll": 345,
+      "width": 360
+    },
+    {
+      "client": 375,
+      "headingOverflow": [],
+      "hostVideoCount": 0,
+      "overflow": false,
+      "placeholders": [
+        {
+          "file": "hero-room.webp",
+          "height": 408.75,
+          "ratio": "4 / 5",
+          "width": 327
+        },
+        {
+          "file": "room-wide.webp",
+          "height": 204.375,
+          "ratio": "2000 / 1250",
+          "width": 327
+        },
+        {
+          "file": "host-main.webp",
+          "height": 245.25,
+          "ratio": "4 / 3",
+          "width": 327
+        },
+        {
+          "file": "gallery-room.webp",
+          "height": 245.25,
+          "ratio": "1600 / 1200",
+          "width": 327
+        },
+        {
+          "file": "gallery-window.webp",
+          "height": 245.25,
+          "ratio": "4 / 3",
+          "width": 327
+        },
+        {
+          "file": "gallery-library-view.webp",
+          "height": 245.25,
+          "ratio": "1600 / 1200",
+          "width": 327
+        },
+        {
+          "file": "gallery-detail.webp",
+          "height": 245.25,
+          "ratio": "4 / 3",
+          "width": 327
+        }
+      ],
+      "scroll": 375,
+      "width": 390
+    },
+    {
+      "client": 753,
+      "headingOverflow": [],
+      "hostVideoCount": 0,
+      "overflow": false,
+      "placeholders": [
+        {
+          "file": "hero-room.webp",
+          "height": 401.0625,
+          "ratio": "1600 / 2000",
+          "width": 320.859375
+        },
+        {
+          "file": "room-wide.webp",
+          "height": 432.984375,
+          "ratio": "2000 / 1250",
+          "width": 692.78125
+        },
+        {
+          "file": "host-main.webp",
+          "height": 389.6875,
+          "ratio": "16 / 9",
+          "width": 692.78125
+        },
+        {
+          "file": "gallery-room.webp",
+          "height": 293.703125,
+          "ratio": "1600 / 1200",
+          "width": 391.609375
+        },
+        {
+          "file": "gallery-window.webp",
+          "height": 281.25,
+          "ratio": "1200 / 1600",
+          "width": 210.9375
+        },
+        {
+          "file": "gallery-library-view.webp",
+          "height": 203.359375,
+          "ratio": "1600 / 1200",
+          "width": 271.15625
+        },
+        {
+          "file": "gallery-detail.webp",
+          "height": 441.84375,
+          "ratio": "1200 / 1600",
+          "width": 331.390625
+        }
+      ],
+      "scroll": 753,
+      "width": 768
+    },
+    {
+      "client": 1009,
+      "headingOverflow": [],
+      "hostVideoCount": 0,
+      "overflow": false,
+      "placeholders": [
+        {
+          "file": "hero-room.webp",
+          "height": 544.65625,
+          "ratio": "1600 / 2000",
+          "width": 435.734375
+        },
+        {
+          "file": "room-wide.webp",
+          "height": 580.171875,
+          "ratio": "2000 / 1250",
+          "width": 928.28125
+        },
+        {
+          "file": "host-main.webp",
+          "height": 522.156005859375,
+          "ratio": "16 / 9",
+          "width": 928.28125
+        },
+        {
+          "file": "gallery-room.webp",
+          "height": 396.734375,
+          "ratio": "1600 / 1200",
+          "width": 528.984375
+        },
+        {
+          "file": "gallery-window.webp",
+          "height": 385.890625,
+          "ratio": "1200 / 1600",
+          "width": 289.421875
+        },
+        {
+          "file": "gallery-library-view.webp",
+          "height": 276.953125,
+          "ratio": "1600 / 1200",
+          "width": 369.28125
+        },
+        {
+          "file": "gallery-detail.webp",
+          "height": 598.84375,
+          "ratio": "1200 / 1600",
+          "width": 449.140625
+        }
+      ],
+      "scroll": 1009,
+      "width": 1024
+    },
+    {
+      "client": 1265,
+      "headingOverflow": [],
+      "hostVideoCount": 0,
+      "overflow": false,
+      "placeholders": [
+        {
+          "file": "hero-room.webp",
+          "height": 674.171875,
+          "ratio": "1600 / 2000",
+          "width": 539.34375
+        },
+        {
+          "file": "room-wide.webp",
+          "height": 727.375,
+          "ratio": "2000 / 1250",
+          "width": 1163.8125
+        },
+        {
+          "file": "host-main.webp",
+          "height": 654.640625,
+          "ratio": "16 / 9",
+          "width": 1163.8125
+        },
+        {
+          "file": "gallery-room.webp",
+          "height": 499.78125,
+          "ratio": "1600 / 1200",
+          "width": 666.390625
+        },
+        {
+          "file": "gallery-window.webp",
+          "height": 490.578125,
+          "ratio": "1200 / 1600",
+          "width": 367.9375
+        },
+        {
+          "file": "gallery-library-view.webp",
+          "height": 350.5625,
+          "ratio": "1600 / 1200",
+          "width": 467.421875
+        },
+        {
+          "file": "gallery-detail.webp",
+          "height": 755.875,
+          "ratio": "1200 / 1600",
+          "width": 566.90625
+        }
+      ],
+      "scroll": 1265,
+      "width": 1280
+    },
+    {
+      "client": 1425,
+      "headingOverflow": [],
+      "hostVideoCount": 0,
+      "overflow": false,
+      "placeholders": [
+        {
+          "file": "hero-room.webp",
+          "height": 759.421875,
+          "ratio": "1600 / 2000",
+          "width": 607.546875
+        },
+        {
+          "file": "room-wide.webp",
+          "height": 819.375,
+          "ratio": "2000 / 1250",
+          "width": 1311
+        },
+        {
+          "file": "host-main.webp",
+          "height": 737.4375,
+          "ratio": "16 / 9",
+          "width": 1311
+        },
+        {
+          "file": "gallery-room.webp",
+          "height": 564.1875,
+          "ratio": "1600 / 1200",
+          "width": 752.25
+        },
+        {
+          "file": "gallery-window.webp",
+          "height": 556,
+          "ratio": "1200 / 1600",
+          "width": 417
+        },
+        {
+          "file": "gallery-library-view.webp",
+          "height": 396.56298828125,
+          "ratio": "1600 / 1200",
+          "width": 528.75
+        },
+        {
+          "file": "gallery-detail.webp",
+          "height": 854.00048828125,
+          "ratio": "1200 / 1600",
+          "width": 640.5
+        }
+      ],
+      "scroll": 1425,
+      "width": 1440
+    }
+  ],
+  "cls": [
+    {
+      "width": 360,
+      "phase": "fonts-ready",
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "width": 390,
+      "phase": "fonts-ready",
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "width": 768,
+      "phase": "fonts-ready",
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "width": 1024,
+      "phase": "fonts-ready",
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "width": 1280,
+      "phase": "fonts-ready",
+      "cls": 0,
+      "shifts": []
+    },
+    {
+      "width": 1440,
+      "phase": "fonts-ready",
+      "cls": 0,
+      "shifts": []
+    }
+  ],
+  "desktopTabs": {
+    "before": {
+      "clip": "hidden",
+      "panel": {
+        "bottom": 1367.25,
+        "height": 819.375,
+        "left": 57,
+        "right": 1368,
+        "top": 547.875,
+        "width": 1311,
+        "x": 57,
+        "y": 547.875
+      },
+      "transform": "matrix(1.0044, 0, 0, 1.0044, 0, -0.635016)"
+    },
+    "workshop": {
+      "file": "workshop.webp",
+      "focus": "tab-workshop",
+      "labelledby": "tab-workshop",
+      "opacity": "0.667793",
+      "panel": {
+        "bottom": 1367.25,
+        "height": 819.375,
+        "left": 57,
+        "right": 1368,
+        "top": 547.875,
+        "width": 1311,
+        "x": 57,
+        "y": 547.875
+      },
+      "selected": "tab-workshop"
+    },
+    "lecture": {
+      "file": "lecture.webp",
+      "focusOutline": "3px",
+      "panel": {
+        "bottom": 1367.25,
+        "height": 819.375,
+        "left": 57,
+        "right": 1368,
+        "top": 547.875,
+        "width": 1311,
+        "x": 57,
+        "y": 547.875
+      },
+      "selected": "tab-lecture"
+    },
+    "final": {
+      "overflow": false,
+      "panel": {
+        "bottom": 1367.25,
+        "height": 819.375,
+        "left": 57,
+        "right": 1368,
+        "top": 547.875,
+        "width": 1311,
+        "x": 57,
+        "y": 547.875
+      },
+      "selected": "tab-room",
+      "transform": "matrix(1.0046, 0, 0, 1.0046, 0, -0.653042)"
+    }
+  },
+  "mobileMenu": [
+    {
+      "bodyOverflow": "visible",
+      "client": 345,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#space",
+      "scroll": 345,
+      "width": 360
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 345,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#formats",
+      "scroll": 345,
+      "width": 360
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 345,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#gallery",
+      "scroll": 345,
+      "width": 360
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 345,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#rates",
+      "scroll": 345,
+      "width": 360
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 345,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#inquiry",
+      "scroll": 345,
+      "width": 360
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 345,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#inquiry",
+      "scroll": 345,
+      "width": 360
+    },
+    {
+      "dialogOpen": false,
+      "escapeFocus": "Меню ☰",
+      "outline": "3px",
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 375,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#space",
+      "scroll": 375,
+      "width": 390
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 375,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#formats",
+      "scroll": 375,
+      "width": 390
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 375,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#gallery",
+      "scroll": 375,
+      "width": 390
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 375,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#rates",
+      "scroll": 375,
+      "width": 390
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 375,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#inquiry",
+      "scroll": 375,
+      "width": 390
+    },
+    {
+      "bodyOverflow": "visible",
+      "client": 375,
+      "dialogOpen": false,
+      "expanded": "false",
+      "hash": "#inquiry",
+      "scroll": 375,
+      "width": 390
+    },
+    {
+      "dialogOpen": false,
+      "escapeFocus": "Меню ☰",
+      "outline": "3px",
+      "overflow": false,
+      "width": 390
+    }
+  ],
+  "reducedMotionEmulation": "Unavailable: browser capabilities are viewport and visibility only.",
+  "production": {
+    "viewports": [
+      {
+        "client": 345,
+        "headingOverflow": [],
+        "heroRatio": "4 / 5",
+        "hostRatio": "4 / 3",
+        "mediaImages": 0,
+        "overflow": false,
+        "qaScript": false,
+        "scroll": 345,
+        "spaceOverflow": "hidden",
+        "videoElements": 0,
+        "width": 360
+      },
+      {
+        "client": 375,
+        "headingOverflow": [],
+        "heroRatio": "4 / 5",
+        "hostRatio": "4 / 3",
+        "mediaImages": 0,
+        "overflow": false,
+        "qaScript": false,
+        "scroll": 375,
+        "spaceOverflow": "hidden",
+        "videoElements": 0,
+        "width": 390
+      },
+      {
+        "client": 753,
+        "headingOverflow": [],
+        "heroRatio": "1600 / 2000",
+        "hostRatio": "16 / 9",
+        "mediaImages": 0,
+        "overflow": false,
+        "qaScript": false,
+        "scroll": 753,
+        "spaceOverflow": "hidden",
+        "videoElements": 0,
+        "width": 768
+      },
+      {
+        "client": 1009,
+        "headingOverflow": [],
+        "heroRatio": "1600 / 2000",
+        "hostRatio": "16 / 9",
+        "mediaImages": 0,
+        "overflow": false,
+        "qaScript": false,
+        "scroll": 1009,
+        "spaceOverflow": "hidden",
+        "videoElements": 0,
+        "width": 1024
+      },
+      {
+        "client": 1265,
+        "headingOverflow": [],
+        "heroRatio": "1600 / 2000",
+        "hostRatio": "16 / 9",
+        "mediaImages": 0,
+        "overflow": false,
+        "qaScript": false,
+        "scroll": 1265,
+        "spaceOverflow": "hidden",
+        "videoElements": 0,
+        "width": 1280
+      },
+      {
+        "client": 1425,
+        "headingOverflow": [],
+        "heroRatio": "1600 / 2000",
+        "hostRatio": "16 / 9",
+        "mediaImages": 0,
+        "overflow": false,
+        "qaScript": false,
+        "scroll": 1425,
+        "spaceOverflow": "hidden",
+        "videoElements": 0,
+        "width": 1440
+      }
+    ],
+    "menu": {
+      "beforeClient": 375,
+      "open": {
+        "client": 390,
+        "open": true,
+        "overflow": "hidden"
+      },
+      "closed": {
+        "client": 375,
+        "focus": "menu-trigger",
+        "open": false,
+        "outline": "3px",
+        "overflow": "visible"
+      },
+      "stableClosed": {
+        "client": 375,
+        "header": 375,
+        "hero": 327,
+        "root": 375
+      },
+      "stableOpen": {
+        "client": 390,
+        "header": 375,
+        "hero": 327,
+        "root": 375
+      }
+    },
+    "tab": {
+      "file": "workshop.webp",
+      "overflow": "hidden",
+      "selected": "tab-workshop",
+      "transform": "none"
+    },
+    "gallery": {
+      "open": {
+        "bodyOverflow": "hidden",
+        "open": true,
+        "title": "Арочное окно"
+      },
+      "closed": {
+        "bodyOverflow": "visible",
+        "focus": "Открыть: Общий вид",
+        "open": false
+      }
+    },
+    "consoleWarningsAndErrors": []
+  }
+}

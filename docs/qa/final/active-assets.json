@@ -1,0 +1,98 @@
+[
+  {
+    "path": "public/brand/arka-mark.png",
+    "width": 678,
+    "height": 769,
+    "bytes": 255463
+  },
+  {
+    "path": "public/brand/arka-wordmark.png",
+    "width": 1887,
+    "height": 321,
+    "bytes": 315022
+  },
+  {
+    "path": "public/brand/arka-logo.png",
+    "width": 936,
+    "height": 240,
+    "bytes": 97035
+  },
+  {
+    "path": "public/images/space/hero-room.webp",
+    "width": 1600,
+    "height": 2000,
+    "bytes": 211132
+  },
+  {
+    "path": "public/images/space/room-wide.webp",
+    "width": 2000,
+    "height": 1250,
+    "bytes": 168502
+  },
+  {
+    "path": "public/images/space/room-wide-depth.png",
+    "width": 1000,
+    "height": 625,
+    "bytes": 33036
+  },
+  {
+    "path": "public/images/space/workshop-layout.webp",
+    "width": 2000,
+    "height": 1250,
+    "bytes": 233530
+  },
+  {
+    "path": "public/images/space/lecture-layout.webp",
+    "width": 2000,
+    "height": 1250,
+    "bytes": 223624
+  },
+  {
+    "path": "public/images/space/gallery-room.webp",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 143156
+  },
+  {
+    "path": "public/images/space/gallery-window.webp",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 130524
+  },
+  {
+    "path": "public/images/space/gallery-city-view.webp",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 211772
+  },
+  {
+    "path": "public/images/space/gallery-detail.webp",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 115754
+  },
+  {
+    "path": "public/images/host/host-main.webp",
+    "width": 1600,
+    "height": 2000,
+    "bytes": 236656
+  },
+  {
+    "path": "public/images/host/host-cutout.webp",
+    "width": 1600,
+    "height": 2000,
+    "bytes": 342054
+  },
+  {
+    "path": "app/icon.png",
+    "width": 332,
+    "height": 316,
+    "bytes": 42965
+  },
+  {
+    "path": "app/opengraph-image.jpg",
+    "width": 1200,
+    "height": 630,
+    "bytes": 119954
+  }
+]

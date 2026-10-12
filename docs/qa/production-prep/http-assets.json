@@ -1,0 +1,98 @@
+[
+  {
+    "path": "/brand/arka-logo.png",
+    "status": 200,
+    "contentType": "image/png",
+    "bytes": 97035
+  },
+  {
+    "path": "/brand/arka-mark.png",
+    "status": 200,
+    "contentType": "image/png",
+    "bytes": 255463
+  },
+  {
+    "path": "/brand/arka-wordmark.png",
+    "status": 200,
+    "contentType": "image/png",
+    "bytes": 315022
+  },
+  {
+    "path": "/images/space/hero-room.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 211132
+  },
+  {
+    "path": "/images/space/room-wide.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 168502
+  },
+  {
+    "path": "/images/space/room-wide-depth.png",
+    "status": 200,
+    "contentType": "image/png",
+    "bytes": 33036
+  },
+  {
+    "path": "/images/space/workshop-layout.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 233530
+  },
+  {
+    "path": "/images/space/lecture-layout.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 223624
+  },
+  {
+    "path": "/images/space/gallery-room.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 143156
+  },
+  {
+    "path": "/images/space/gallery-window.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 130524
+  },
+  {
+    "path": "/images/space/gallery-city-view.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 211772
+  },
+  {
+    "path": "/images/space/gallery-detail.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 115754
+  },
+  {
+    "path": "/images/host/host-main.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 236656
+  },
+  {
+    "path": "/images/host/host-cutout.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 342054
+  },
+  {
+    "path": "/icon.png",
+    "status": 200,
+    "contentType": "image/png",
+    "bytes": 42965
+  },
+  {
+    "path": "/opengraph-image.jpg",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "bytes": 119954
+  }
+]

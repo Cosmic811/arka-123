@@ -1,0 +1,16 @@
+[
+  {
+    "asset": "workshop",
+    "architectureROI": "windows x480..1210 y190..450",
+    "meanAbsoluteRGBDifference": 4.8981735159817354,
+    "units": "0..255",
+    "note": "Pixel similarity only; not proof of identical geometry"
+  },
+  {
+    "asset": "lecture",
+    "architectureROI": "windows x480..1210 y190..450",
+    "meanAbsoluteRGBDifference": 5.988942746750966,
+    "units": "0..255",
+    "note": "Pixel similarity only; not proof of identical geometry"
+  }
+]

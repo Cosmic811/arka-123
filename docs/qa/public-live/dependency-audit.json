@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-12",
+  "all": {
+    "info": 0,
+    "low": 0,
+    "moderate": 0,
+    "high": 5,
+    "critical": 0,
+    "total": 5
+  },
+  "production": {
+    "info": 0,
+    "low": 0,
+    "moderate": 0,
+    "high": 0,
+    "critical": 0,
+    "total": 0
+  },
+  "affectedDevelopmentChain": [
+    "eslint-config-next",
+    "@next/eslint-plugin-next",
+    "fast-glob",
+    "micromatch",
+    "braces"
+  ],
+  "advisory": "https://github.com/advisories/GHSA-vfj7-8cjw-p6xm",
+  "forcedFixApplied": false,
+  "eslint": {
+    "version": "9.39.5",
+    "status": "EOL",
+    "majorUpgradeDeferred": "React and accessibility plugins do not declare ESLint 10 compatibility"
+  }
+}

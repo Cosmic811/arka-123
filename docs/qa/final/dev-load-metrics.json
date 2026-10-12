@@ -1,0 +1,62 @@
+[
+  {
+    "clientWidth": 345,
+    "cls": 0,
+    "heroLoaded": true,
+    "measurementReady": "true",
+    "objectPosition": "50% 50%",
+    "placeholders": 0,
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "clientWidth": 375,
+    "cls": 0,
+    "heroLoaded": true,
+    "measurementReady": "true",
+    "objectPosition": "50% 50%",
+    "placeholders": 0,
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "clientWidth": 753,
+    "cls": 0,
+    "heroLoaded": true,
+    "measurementReady": "true",
+    "objectPosition": "50% 50%",
+    "placeholders": 0,
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "clientWidth": 1009,
+    "cls": 0,
+    "heroLoaded": true,
+    "measurementReady": "true",
+    "objectPosition": "50% 50%",
+    "placeholders": 0,
+    "scrollWidth": 1009,
+    "width": 1024
+  },
+  {
+    "clientWidth": 1265,
+    "cls": 0,
+    "heroLoaded": true,
+    "measurementReady": "true",
+    "objectPosition": "50% 50%",
+    "placeholders": 0,
+    "scrollWidth": 1265,
+    "width": 1280
+  },
+  {
+    "clientWidth": 1425,
+    "cls": 0,
+    "heroLoaded": true,
+    "measurementReady": "true",
+    "objectPosition": "50% 50%",
+    "placeholders": 0,
+    "scrollWidth": 1425,
+    "width": 1440
+  }
+]

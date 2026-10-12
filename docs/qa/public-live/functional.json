@@ -1,0 +1,38 @@
+{
+  "depthInitial": "depth",
+  "depthPaused": {
+    "mode": "static",
+    "pressed": "true"
+  },
+  "tabArrow": "Мастер-класс",
+  "tabEnd": "Лекция / встреча",
+  "lightboxOpened": 1,
+  "lightboxNext": "Арочное окно",
+  "lightboxFocusReturned": "Открыть: Общий вид",
+  "emptyForm": {
+    "errors": 2,
+    "focus": "inquiry-name"
+  },
+  "demoForm": {
+    "errors": 0,
+    "status": "Поля заполнены корректно.Демонстрационная форма. Сообщение не отправлено."
+  },
+  "mobileMenuEscape": {
+    "focus": "Меню ☰",
+    "open": false
+  },
+  "mobileNavigation": {
+    "depth": "static",
+    "hash": "#space",
+    "menuOpen": false
+  },
+  "tariffAnchor": "#inquiry",
+  "mobileLightbox": {
+    "focus": "Открыть: Общий вид",
+    "open": false
+  },
+  "logoKeyboardFocus": {
+    "focused": "АРКА 123 — в начало страницы",
+    "outline": "solid"
+  }
+}

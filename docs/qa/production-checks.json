@@ -1,0 +1,35 @@
+[
+  {
+    "client": 1425,
+    "devTools": false,
+    "duplicateIds": [],
+    "heroFont": "88.35px",
+    "lang": "ru",
+    "scroll": 1425,
+    "sectionFont": "59.7625px",
+    "unlabelledMedia": 0,
+    "width": 1440
+  },
+  {
+    "client": 753,
+    "devTools": false,
+    "duplicateIds": [],
+    "heroFont": "48px",
+    "lang": "ru",
+    "scroll": 753,
+    "sectionFont": "41.9545px",
+    "unlabelledMedia": 0,
+    "width": 768
+  },
+  {
+    "client": 375,
+    "devTools": false,
+    "duplicateIds": [],
+    "heroFont": "48px",
+    "lang": "ru",
+    "scroll": 375,
+    "sectionFont": "34px",
+    "unlabelledMedia": 0,
+    "width": 390
+  }
+]

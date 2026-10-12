@@ -1,0 +1,158 @@
+{
+  "url": "https://cosmic811.github.io/arka-123/",
+  "pageStatus": 200,
+  "openGraph": "https://cosmic811.github.io/arka-123/opengraph-image.jpg?opengraph-image.1nht0t5-3kp-9.jpg",
+  "responses": [
+    {
+      "url": "https://cosmic811.github.io/arka-123/images/space/hero-room.webp",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 211132
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/1nmy5_nt8rpkp.css",
+      "status": 200,
+      "type": "text/css; charset=utf-8",
+      "bytes": 39767
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/1ckvzn7sfprko.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 5584
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/2bzlqb104tejm.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 33760
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/0s7mvllxht1mo.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 229597
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/157j6tnthvr9h.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 163784
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/turbopack-3zyzdlnl1ho_8.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 10039
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/0umf92h1sb77c.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 13822
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/2n5qeheznvl4u.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 7820
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/1mx-pyovmzr3b.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 1080
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/390gf-23smhbb.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 46734
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/icon.png?icon.15f8fwi0go1qs.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 42965
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "status": 200,
+      "type": "application/javascript; charset=utf-8",
+      "bytes": 112594
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/brand/arka-mark.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 255463
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/brand/arka-wordmark.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 315022
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/images/space/room-wide.webp",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 168502
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/images/host/host-cutout.webp",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 342054
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/images/space/gallery-room.webp",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 143156
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/images/space/gallery-window.webp",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 130524
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/images/space/gallery-city-view.webp",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 211772
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/images/space/gallery-detail.webp",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 115754
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/images/space/room-wide-depth.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 33036
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/images/space/workshop-layout.webp",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 233530
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/images/space/lecture-layout.webp",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": 223624
+    },
+    {
+      "url": "https://cosmic811.github.io/arka-123/opengraph-image.jpg?opengraph-image.1nht0t5-3kp-9.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 119954
+    }
+  ],
+  "checkedUtc": "2026-10-12T06:46:00.239Z"
+}

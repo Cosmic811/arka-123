@@ -1,0 +1,17 @@
+source-assets/
+.cache/
+.preview/
+.venv/
+.netlify/
+node_modules/
+.next/
+out/
+__pycache__/
+*.onnx
+*.pth
+*.pt
+*.tsbuildinfo
+.env*
+docs/
+tools/
+tests/

@@ -1,0 +1,70 @@
+{
+  "depth": {
+    "model": "Depth Anything V2 Small (ONNX)",
+    "input": [
+      2000,
+      1250
+    ],
+    "inference": [
+      826,
+      518
+    ],
+    "output": [
+      1000,
+      625
+    ],
+    "seconds": 2.4,
+    "meaning": "relative inverse depth; white is nearer, not metric reconstruction"
+  },
+  "cutout": {
+    "model": "IS-Net general use",
+    "input": [
+      1600,
+      2000
+    ],
+    "output": [
+      1600,
+      2000
+    ],
+    "seconds": 10.7,
+    "rgb": "original portrait pixels; alpha only, no face regeneration"
+  },
+  "furniture": [
+    {
+      "asset": "workshop",
+      "unchanged_area_percent": 69.6,
+      "outside_mask_max_delta_before_webp": 0
+    },
+    {
+      "asset": "lecture",
+      "unchanged_area_percent": 71.5,
+      "outside_mask_max_delta_before_webp": 0
+    }
+  ],
+  "runtime": "1.31.0",
+  "providers": [
+    "CPUExecutionProvider"
+  ],
+  "files": [
+    {
+      "path": "public/images/space/room-wide-depth.png",
+      "bytes": 33036,
+      "sha256": "08c6e5d18f52d680aab9465dd43e1d2553b5d2acf850c9b5e1a30a29ab8ee144"
+    },
+    {
+      "path": "public/images/host/host-cutout.webp",
+      "bytes": 342054,
+      "sha256": "a7be868b7f6640107aeb9f16a8770dcd96e074d1d0f14f42afd6e7181111f687"
+    },
+    {
+      "path": "public/images/space/workshop-layout.webp",
+      "bytes": 233530,
+      "sha256": "b04cd9f9f39e0cc6a42c4a8f33b7e6c60df152e624fe27f245cad55ccae2555d"
+    },
+    {
+      "path": "public/images/space/lecture-layout.webp",
+      "bytes": 223624,
+      "sha256": "e3098f0084d74257f9c1e64bf66001ee13db0e7f6f7a457e7d88aa686f72e813"
+    }
+  ]
+}
